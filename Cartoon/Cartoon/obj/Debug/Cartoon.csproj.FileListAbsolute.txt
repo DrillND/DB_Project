@@ -1,0 +1,10 @@
+C:\Users\spaceboy\source\repos\Cartoon\Cartoon\bin\Debug\Cartoon.exe.config
+C:\Users\spaceboy\source\repos\Cartoon\Cartoon\bin\Debug\Cartoon.exe
+C:\Users\spaceboy\source\repos\Cartoon\Cartoon\bin\Debug\Cartoon.pdb
+C:\Users\spaceboy\source\repos\Cartoon\Cartoon\obj\Debug\Cartoon.csproj.AssemblyReference.cache
+C:\Users\spaceboy\source\repos\Cartoon\Cartoon\obj\Debug\Cartoon.Form1.resources
+C:\Users\spaceboy\source\repos\Cartoon\Cartoon\obj\Debug\Cartoon.Properties.Resources.resources
+C:\Users\spaceboy\source\repos\Cartoon\Cartoon\obj\Debug\Cartoon.csproj.GenerateResource.cache
+C:\Users\spaceboy\source\repos\Cartoon\Cartoon\obj\Debug\Cartoon.csproj.CoreCompileInputs.cache
+C:\Users\spaceboy\source\repos\Cartoon\Cartoon\obj\Debug\Cartoon.exe
+C:\Users\spaceboy\source\repos\Cartoon\Cartoon\obj\Debug\Cartoon.pdb
